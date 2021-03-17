@@ -1,6 +1,10 @@
 
-/* import fonts from fonts.css file */ 
-@import url(./fonts.css);
+/* @font-face */ 
+
+@font-face{
+    font-family: "Roboto";
+    src: '../fonts/Roboto/Roboto-Regular.ttf';
+}
 
   /* background: #212121; */
 
